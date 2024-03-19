@@ -1,0 +1,24 @@
+{
+  "name": "dragon_homophonic_meme",
+  "version": "1.0.0",
+  "description": "谐音梗之小动物的故事",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffuuasd/dragon_homophonic_meme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffuuasd/dragon_homophonic_meme/issues"
+  },
+  "homepage": "https://github.com/ffuuasd/dragon_homophonic_meme#readme",
+  "dependencies": {
+    "dragon_lucky_words": "^1.0.3",
+    "jquery": "^3.7.1"
+  }
+}
